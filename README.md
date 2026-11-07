@@ -39,4 +39,3 @@ All projects use synthetic or public de-identified data only. They are designed 
 
 Improving my knowledge of healthcare interoperability, radiology workflows, DICOM networking, HL7 integrations and practical PACS operations.
 
-If you're still reading. Hi, pal!
